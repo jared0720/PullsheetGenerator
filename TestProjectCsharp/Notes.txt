@@ -1,0 +1,41 @@
+﻿TODO
+
+RoomInfoTwo
+
+
+Add Mic buttons - PTT, SFD, or Ceiling
+
+
+
+//RoomInfoOne
+//	Spkr - 2,4,6 values
+//	EasyPort On Wall value limits WallPlates on RoomInfoTwo
+
+//Radio Buttons
+//	Expresso
+//	20/20
+//	Hybrid
+//
+//
+//CheckBox
+//	EQ Boom
+//	AN Boom
+//	Perfusion Boom
+//	SFD
+//		Display Count
+//	Wall Display
+//		Display Count
+//	Speakers
+//		Speaker Count
+//	Ceiling Mic
+//	Nurse Station
+//	EasyPort On Walls
+//		EasyPort Count
+//
+//
+//Nurse Station
+//	RGB or Cat6
+//	Extended Power
+//	Printer?
+//	Audio count?
+//	Input count?

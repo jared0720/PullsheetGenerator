@@ -1,0 +1,12 @@
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\bin\Debug\TestProjectCsharp.exe.config
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\bin\Debug\TestProjectCsharp.exe
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\bin\Debug\TestProjectCsharp.pdb
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.Properties.Resources.resources
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.exe
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.pdb
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.RoomType.resources
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.RoomInfoOne.resources
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.RoomInfoTwo.resources
+C:\Users\jared\source\repos\TestProjectCsharp\TestProjectCsharp\obj\Debug\TestProjectCsharp.RoomInfoThree.resources
